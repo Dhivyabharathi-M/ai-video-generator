@@ -1,0 +1,7 @@
+moviepy
+edge-tts
+openai-whisper 
+pillow 
+requests 
+fastapi 
+uvicorn
