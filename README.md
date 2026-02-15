@@ -1,5 +1,5 @@
-#🎬 AI Automated YouTube Video Generator
-#🚀 Overview
+🎬 AI Automated YouTube Video Generator
+🚀 Overview
 
 This project is an end-to-end AI video generation pipeline that automatically creates YouTube-style explainer videos from a topic input.
 
