@@ -84,7 +84,7 @@ Add **FFmpeg** to your **System PATH**.
 Download:  
 👉 ImageMagick-7.x Q16 HDRI
 
-Add **ImageMagick** to your **System PATH**.
+Add **ImageMagick** to your **System PATH**
 
 ---
 
