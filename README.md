@@ -10,15 +10,15 @@ This project is an **end-to-end AI video generation pipeline** that automaticall
 
 The system integrates:
 
-- 🔁 **n8n** – Workflow automation  
-- ⚡ **FastAPI** – Backend API  
-- 🧠 **Groq / OpenAI** – Script generation  
-- 🔊 **Edge TTS** – Voice synthesis  
-- 🎥 **Pexels API** – Stock video fetching  
-- 🎞 **MoviePy** – Video processing  
-- 📝 **Whisper** – Subtitle generation  
-- 🖼 **Pillow** – Thumbnail creation  
-- 🛠 **FFmpeg & ImageMagick** – Rendering support  
+-  **n8n** – Workflow automation  
+-  **FastAPI** – Backend API  
+-  **Groq / OpenAI** – Script generation  
+-  **Edge TTS** – Voice synthesis  
+-  **Pexels API** – Stock video fetching  
+-  **MoviePy** – Video processing  
+-  **Whisper** – Subtitle generation  
+-  **Pillow** – Thumbnail creation  
+-  **FFmpeg & ImageMagick** – Rendering support  
 
 ---
 
@@ -110,21 +110,21 @@ curl -X POST http://127.0.0.1:8000/generate-video ^
 
 After successful execution, the system generates:
 
-- 🎬 **MP4 Video**
-- 📝 **SRT Subtitles**
-- 🖼 **Thumbnail Image**
-- 🔊 Voice narration audio
-- 🎥 Stock video clips merged with narration
+-  **MP4 Video**
+-  **SRT Subtitles**
+-  **Thumbnail Image**
+-  Voice narration audio
+-  Stock video clips merged with narration
 
 ---
 
 ## 📈 Future Improvements
 
-- 🚀 Automatic YouTube upload  
-- 🎵 Background music integration  
-- 🌍 Multi-language support  
-- 🎨 AI-powered thumbnail enhancement  
-- ⚡ GPU acceleration for faster rendering  
+-  Automatic YouTube upload  
+-  Background music integration  
+-  Multi-language support  
+-  AI-powered thumbnail enhancement  
+-  GPU acceleration for faster rendering  
 
 ---
 
